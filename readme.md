@@ -1,6 +1,7 @@
 # SSRPanel Standard
 Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 
+   Demo user name = admin    Password = 123456
 - [Demo](https://demo.ssrpanel.com)
 - [Telegram](https://t.me/ssrpanel)
 - [Issues](https://github.com/ssrpanel/SSRPanel/issues)
